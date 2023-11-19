@@ -40,6 +40,7 @@
 ## Домашние работы
 - Первое задание https://colab.research.google.com/drive/14437UCjdn_QLPuKR23puZW5eNqsQJJLv?hl=ru%20here#scrollTo=VwAPIMTcGoyV
 - Второе задание https://colab.research.google.com/drive/1GTIky5s-jq3eczPSsSV5FUPD0lPnOeUn#scrollTo=6d3ead3c
+- Третье задание https://colab.research.google.com/drive/1d_hPwCcz-JWgRM8thPRWJH8JsLPyzD3p?usp=sharing
 
 ## Контакты
 
